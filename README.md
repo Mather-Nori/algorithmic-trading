@@ -22,7 +22,7 @@ All visualisations are generated using the maplotlib module in Python and all si
 
 **_Who am I?_**
 
-My name is Mather Nori and I am currently completing the final year of my MEng degree at University College London (UCL). See my LinkedIn for more details about my career: [\<link\>](https://www.linkedin.com/in/mather-n-21750713b/).
+My name is Mather Nori and I am currently completing the final year of my MEng degree at University College London (UCL). See my LinkedIn for more details about my career: https://www.linkedin.com/in/mather-n-21750713b/.
 
 **_Who are you?_**
 
