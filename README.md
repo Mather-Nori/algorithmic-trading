@@ -77,3 +77,5 @@ However, this essentially translates the problem predicting whether a stock/symb
 **_Next Steps_**
 
 The next steps here would be to research a way to attack the problem of buying/selling the EURUSD and GBPUSD in such a configuration that when $d$ returns back to the mean, we will be in a net profit. My initial thoughts here are to use approximate the trends lines for EURUSD and GBPUSD and to see if there's a way to use their current trajectories to gain insight into their possible future convergence location. I will update this post with my findings.
+
+I wonder if we can exploit some statistics about the average slope of EURUSD/GBPUSD to best predict the average location about where the two symbols will reconverge.
